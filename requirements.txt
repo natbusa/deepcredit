@@ -1,6 +1,6 @@
 wget
 requests
-re
+regex
 pytz
 datetime
 numpy
