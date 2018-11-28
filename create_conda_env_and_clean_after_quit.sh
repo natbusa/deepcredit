@@ -14,8 +14,8 @@ pip install -r requirements.txt
 
 jupyter lab default-prediction.ipynb
 
-#jupyter kernelspec uninstall ${ENV_NAME} -y
+jupyter kernelspec uninstall ${ENV_NAME} -y
 
-#source deactivate
+source deactivate
 
-#conda env remove -n ${ENV_NAME} -y
+conda env remove -n ${ENV_NAME} -y
