@@ -5,3 +5,11 @@ pytz
 datetime
 numpy
 pandas
+xlrd
+sklearn
+patsy
+xgboost
+keras
+matplotlib
+tensorflow
+pyclustering
