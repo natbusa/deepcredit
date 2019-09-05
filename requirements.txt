@@ -1,7 +1,0 @@
-wget
-requests
-regex
-pytz
-datetime
-numpy
-pandas
